@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alperhazar
-- 👀 I’m interested in cryptology, task automation
+- 👀 I’m interested in general cryptology (not cryptocurrency!), task automation technologies
 - 🌱 I’m currently learning python, C#
 - 📫 How to reach me: alper@akyol.tech
 
