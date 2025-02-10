@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @alperhazar
 - 👀 I’m interested in general cryptology (not cryptocurrency!), task automation technologies
+- FreePascal enthusiast!
 - Contact: alperhazarakyol@gmail.com
 
 <!---
